@@ -11,7 +11,7 @@
 
 body {
     font-family: Optima, sans-serif;
-    background-color: #f4efe6;
+    background-color: #203C61;
     color: #ADC8E9;
     margin: 0;
     padding: 0 20px 40px 20px;
@@ -39,7 +39,7 @@ nav a {
 }
 
 h1 {
-    color: #f4efe6;
+    color: #ADC8E9;
     text-align: center;
     font-size: 40px;
 }
