@@ -10,16 +10,16 @@
    ===================================================================== */
 
 body {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Optima, sans-serif;
     background-color: #f4efe6;
-    color: #2b2b2b;
+    color: #ADC8E9;
     margin: 0;
     padding: 0 20px 40px 20px;
 }
 
 /* the menu at the top of every page */
 nav {
-    background-color: #2b5d8c;
+    background-color: #f4efe6;
     padding: 14px;
     text-align: center;
 }
@@ -39,7 +39,7 @@ nav a {
 }
 
 h1 {
-    color: #2b5d8c;
+    color: #f4efe6;
     text-align: center;
     font-size: 40px;
 }
