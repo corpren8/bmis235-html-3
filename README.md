@@ -3,7 +3,7 @@
 **Name:** Cordelia Prendergast
 **GU username:** cprendergast
 
-My live page: https://corpren8.github.io/bmis235-html-3.0/index.html 
+My live page: https://corpren8.github.io/bmis235-html-3/index.html
 
 Instructions: https://gu-27.github.io/html-module/html-3.html
 
