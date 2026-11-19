@@ -55,6 +55,8 @@ p {
 }
 
 footer {
+   font-style: italic;
+letter-spacing: 1px;
     text-align: center;
     font-size: 14px;
     color: #777777;
